@@ -5,7 +5,7 @@ PyTorch (1.10.2)
 
 Python 3.6.13
 # Datasets
-All the data comes from the STGAT model without any further processing.
+All the data comes from the STGAT model and SGAN model without any further processing.
 # Acknowledgments
 All data and part of the code comes from the SGAN model and STGAT model. If you find this code useful in your research then please also cite their papers.
 
